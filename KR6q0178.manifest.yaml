@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0178_000.yaml, hash: 'sha256:bb971492d861281313b5ac675daf8747a2561a270ec9d1d6f9f068dd3ffc87c0'}
+  - {seq: 0, filename: KR6q0178_000.yaml, hash: 'sha256:3d76b6ef06c75f5d6fe58dfa1844624d3d3ad904fed302483d697dc599ae4f20'}
   - {seq: 1, filename: KR6q0178_001.yaml, hash: 'sha256:3ae7423cbc5f34e5b9edb7e800e7b451dafe0c1a701cb088f29ab345bc94a3e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0178_000.markers.yaml, hash: 'sha256:72e6337a397930056fb1568582c9a7668feae44ce3b88501798ef222990a1fb6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0178_000.markers.yaml, hash: 'sha256:c939fc7f1dfd2840bc3cb1163c72a16edb2eceda3c1cda50efbd34670dbfcd81'}
   - {seq: 1, role: markers, filename: assets/KR6q0178_001.markers.yaml, hash: 'sha256:1af783956eaf82e77dff588a99b7ea6ce3d9bc112096992110fb0ab1fa1cccd5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0178_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1292-A 蘇州靈巖妙空佛海和尚註證道歌序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0178_X_000-mulu-2
     span:
-    - front
+    - body
     - 442
     - 442
   label: No. 1292-B 靈巖妙空和尚註證道歌
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0178_X_000-mulu-3
     span:
-    - front
+    - body
     - 549
     - 549
   label: 證道歌註
@@ -77,7 +77,7 @@ table_of_contents:
   label: No. 1292-C 後序
   type: mulu
   level: 1
-hash: sha256:0479e970eed5f2458396be72ceb9dbe973395e15939e644633b23e5baf575b43
+hash: sha256:0e4d195367e3450f9861c843432e25a1dd4eb1dcbaa76aa97832ba6bedbc53bf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
